@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AnimalPopulation
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=loop
+comment2.target=void\ write(int)
+comment3.params=loop
+comment3.target=int\ read(int)
+numComments=4
